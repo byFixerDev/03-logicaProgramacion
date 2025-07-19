@@ -7,9 +7,8 @@
     de 3 y de 5, imprime "FizzBuzz".
  */
 // escribir 1-100
-//Multiplos??? de 3, imprime Fizz en lugar del número
-//para los de 5 buzz
-//para los multiplos de ambos emprime "FizzBuzz"
+//Multiplos: n1 % n2 == 0
+// 1<=100 
 
 
 for(let i = 1; i<=100; i++){
